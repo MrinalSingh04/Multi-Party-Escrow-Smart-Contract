@@ -9,7 +9,7 @@ Funds are locked in the contract until **any 2 of the 3 parties** agree on the o
 
 - If **buyer + seller** approve → funds are released to the seller.
 - If **buyer + mediator** approve → funds are released to the seller.
-- If **seller + mediator** approve → funds are released to the seller.
+- If **seller + mediator** approve → funds are released to the seller. 
 - If the deadline passes without agreement → the buyer can refund.
  
 ---
