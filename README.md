@@ -4,7 +4,7 @@
 
 The **MultiPartyEscrow** contract is a Solidity-based implementation of a **2-of-3 multi-signature escrow system**.  
 It enables safe transactions between a **buyer** and a **seller**, with the help of a **mediator** in case of disputes.
-
+ 
 Funds are locked in the contract until **any 2 of the 3 parties** agree on the outcome:
 
 - If **buyer + seller** approve → funds are released to the seller.
